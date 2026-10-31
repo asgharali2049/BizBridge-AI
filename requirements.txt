@@ -1,0 +1,7 @@
+mcp>=1.9,<2
+ollama>=0.6.3,<0.7
+google-genai>=2.34,<3
+openai>=3.41,<4
+python-dotenv>=1.2,<2
+streamlit>=1.40,<2
+plotly>=5,<7
