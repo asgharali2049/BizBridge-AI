@@ -6,6 +6,38 @@ shop in Sukkur, Pakistan. It also includes a Streamlit dashboard and AI
 Assistant interface. The dataset contains only fictional people and whole-PKR
 prices.
 
+## Screenshots
+
+### Dashboard
+
+Key business metrics for completed orders, revenue, units sold, and average order value, with an adjustable date range and ranking size.
+
+![Dashboard overview](screenshots/dashboard-overview.png)
+
+### Sales trends
+
+Weekly revenue and completed-order trends.
+
+![Sales overview](screenshots/sales-overview.png)
+
+### Product performance and customer insights
+
+Top-selling products by units sold and top customers by spending.
+
+![Product performance and customer insights](screenshots/product-customer-insights.png)
+
+### Inventory health
+
+Out-of-stock and low-stock items compared against their reorder levels.
+
+![Inventory health](screenshots/inventory-health.png)
+
+### AI Assistant
+
+Ask questions about sales, products, customers, and inventory. Answers use only the read-only MCP analytics tools.
+
+![AI Assistant](screenshots/ai-assistant.png)
+
 ## Requirements
 
 Python 3.10 or newer. Install the MCP SDK, provider SDKs, and dotenv loader with:
